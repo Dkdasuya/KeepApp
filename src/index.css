@@ -11,3 +11,61 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+form{
+  display: block;
+}
+
+.header{
+  height: 100px;
+  display: flex;
+  background-color: orange;
+  /* align-items: center;
+  justify-content: center; */
+}
+.inner_header{
+  display: flex;
+  vertical-align: auto;
+}
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.create_note{
+  padding: 10px;
+  display:  inherit;
+  height: 30%;
+  flex-direction: column;
+  width: 25%;
+}
+
+.main_div{
+  margin-top: 10px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: 50%;
+}
+
+.elements{
+  margin: 2px;
+}
+
+.note{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  width: 18%;
+  margin-left: 20px;
+}
+
