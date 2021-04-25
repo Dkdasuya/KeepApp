@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/KeepApp/static/css/main.ed49b0b3.chunk.css",
+    "main.js": "/KeepApp/static/js/main.f04675e3.chunk.js",
+    "main.js.map": "/KeepApp/static/js/main.f04675e3.chunk.js.map",
+    "runtime-main.js": "/KeepApp/static/js/runtime-main.09407bd8.js",
+    "runtime-main.js.map": "/KeepApp/static/js/runtime-main.09407bd8.js.map",
+    "static/js/2.c63b24a1.chunk.js": "/KeepApp/static/js/2.c63b24a1.chunk.js",
+    "static/js/2.c63b24a1.chunk.js.map": "/KeepApp/static/js/2.c63b24a1.chunk.js.map",
+    "static/js/3.beb52e73.chunk.js": "/KeepApp/static/js/3.beb52e73.chunk.js",
+    "static/js/3.beb52e73.chunk.js.map": "/KeepApp/static/js/3.beb52e73.chunk.js.map",
+    "index.html": "/KeepApp/index.html",
+    "static/css/main.ed49b0b3.chunk.css.map": "/KeepApp/static/css/main.ed49b0b3.chunk.css.map",
+    "static/js/2.c63b24a1.chunk.js.LICENSE.txt": "/KeepApp/static/js/2.c63b24a1.chunk.js.LICENSE.txt",
+    "static/media/Notebook.7b1a093b.jpg": "/KeepApp/static/media/Notebook.7b1a093b.jpg",
+    "static/media/logo.6ce24c58.svg": "/KeepApp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09407bd8.js",
+    "static/js/2.c63b24a1.chunk.js",
+    "static/css/main.ed49b0b3.chunk.css",
+    "static/js/main.f04675e3.chunk.js"
+  ]
+}
